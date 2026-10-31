@@ -1,0 +1,30 @@
+
+body {
+    font-family: "Cairo", "Tajawal", sans-serif;
+    background-color: #f8f9fa;
+    color: #162d4b;
+}
+
+
+.event-card {
+    background: #ffffff;
+    color: #162d4b;
+    padding: 20px;
+    border: 1px solid #dae4ed;
+    border-radius: 12px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+
+.event-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+
+.event-card img {
+    border-radius: 8px;
+    object-fit: cover;
+    height: 180px;
+    width: 100%;
+}
