@@ -19,7 +19,7 @@ const events = [
         image: "assets/new-photos/study.jpg"
     },
     {
-        id: "football-tournament",
+        id: "ffootball-cup",
         title: "بطولة كرة القدم الجامعية",
         category: "sports",
         date: "2026-11-15",
